@@ -38,7 +38,7 @@ cd webpack-bulma
 Install yarn modules
 
 ```bash
-yarn install
+yarn install (if you have not installed yarn then: brew install yarn)
 ```
 
 Build production
