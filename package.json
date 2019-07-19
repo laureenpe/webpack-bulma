@@ -2,7 +2,7 @@
   "name": "webpack-bulma",
   "version": "1.0.0",
   "description": "webpack bulma boilerplate",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "watch": "webpack --watch",
     "start": "webpack-dev-server --env.development --open",
@@ -35,6 +35,7 @@
     "babel-preset-env": "^1.7.0",
     "bulma": "^0.7.1",
     "font-awesome": "^4.7.0",
+    "gh-pages": "^2.0.1",
     "imagemin-webpack-plugin": "^2.1.5",
     "whatwg-fetch": "^2.0.4"
   }
